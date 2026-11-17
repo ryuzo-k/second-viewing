@@ -1,0 +1,73 @@
+{
+ "dataset": "001187",
+ "dry_run": false,
+ "excluded_neurons": {
+  "sub-1_ses-2_ecephys+image.nwb": 5,
+  "sub-10_ses-1_ecephys+image.nwb": 10,
+  "sub-11_ses-1_ecephys+image.nwb": 3,
+  "sub-12_ses-1_ecephys+image.nwb": 5,
+  "sub-12_ses-2_ecephys+image.nwb": 2,
+  "sub-13_ses-1_ecephys+image.nwb": 0,
+  "sub-14_ses-1_ecephys+image.nwb": 10,
+  "sub-15_ses-1_ecephys+image.nwb": 0,
+  "sub-16_ses-1_ecephys+image.nwb": 12,
+  "sub-16_ses-2_ecephys+image.nwb": 0,
+  "sub-17_ses-1_ecephys+image.nwb": 3,
+  "sub-18_ses-1_ecephys+image.nwb": 6,
+  "sub-19_ses-1_ecephys+image.nwb": 7,
+  "sub-19_ses-2_ecephys+image.nwb": 6,
+  "sub-2_ses-1_ecephys+image.nwb": 6,
+  "sub-2_ses-2_ecephys+image.nwb": 16,
+  "sub-20_ses-1_ecephys+image.nwb": 4,
+  "sub-21_ses-1_ecephys+image.nwb": 10,
+  "sub-22_ses-1_ecephys+image.nwb": 12,
+  "sub-23_ses-1_ecephys+image.nwb": 8,
+  "sub-24_ses-2_ecephys+image.nwb": 6,
+  "sub-24_ses-3_ecephys+image.nwb": 1,
+  "sub-25_ses-1_ecephys+image.nwb": 4,
+  "sub-26_ses-1_ecephys+image.nwb": 1,
+  "sub-27_ses-1_ecephys+image.nwb": 3,
+  "sub-27_ses-2_ecephys+image.nwb": 2,
+  "sub-28_ses-1_ecephys+image.nwb": 11,
+  "sub-29_ses-1_ecephys+image.nwb": 7,
+  "sub-3_ses-2_ecephys+image.nwb": 4,
+  "sub-30_ses-1_ecephys+image.nwb": 11,
+  "sub-31_ses-1_ecephys+image.nwb": 3,
+  "sub-32_ses-2_ecephys+image.nwb": 1,
+  "sub-33_ses-1_ecephys+image.nwb": 7,
+  "sub-34_ses-1_ecephys+image.nwb": 1,
+  "sub-35_ses-1_ecephys+image.nwb": 0,
+  "sub-36_ses-1_ecephys+image.nwb": 2,
+  "sub-37_ses-1_ecephys+image.nwb": 0,
+  "sub-38_ses-1_ecephys+image.nwb": 2,
+  "sub-39_ses-1_ecephys+image.nwb": 4,
+  "sub-4_ses-1_ecephys+image.nwb": 7,
+  "sub-5_ses-1_ecephys+image.nwb": 5,
+  "sub-5_ses-2_ecephys+image.nwb": 0,
+  "sub-6_ses-1_ecephys+image.nwb": 6,
+  "sub-7_ses-1_ecephys+image.nwb": 3,
+  "sub-8_ses-1_ecephys+image.nwb": 20,
+  "sub-9_ses-1_ecephys+image.nwb": 7
+ },
+ "repetition": {
+  "result": {
+   "log": {
+    "k": 0.05502906449667296,
+    "z": 0.5452188260137725,
+    "k_first_viewing": 0.02175872727713553
+   },
+   "identity": {
+    "k": 0.07856884026246236,
+    "z": 0.5207451544219346,
+    "k_first_viewing": -0.01721176541998134
+   },
+   "log_memory": {
+    "k": 0.04989132254765278,
+    "z": 0.5788882647085583,
+    "k_first_viewing": 0.021758727277135646
+   }
+  },
+  "decision": "not found"
+ },
+ "note": "preregistered test, written before any exploratory analysis"
+}
