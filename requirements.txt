@@ -1,0 +1,9 @@
+# Python 3.14.4
+numpy==2.5.5
+scipy==1.18.1
+h5py==3.16.0
+dandi==0.82.0
+# typicality.py only
+torch==2.15.0
+transformers==5.23.0
+pillow==13.0.0
