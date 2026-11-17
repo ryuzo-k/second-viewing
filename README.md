@@ -2,6 +2,8 @@
 
 A preregistered test of whether seeing a novel image once more changes a human medial temporal lobe neuron's later response in proportion to its category tuning.
 
+Paper: https://ryuzokijima.com/research/second-viewing/ · Registration: https://osf.io/z56gw
+
 | File | Contents |
 |---|---|
 | `preregistration.md` | Hypothesis, analysis, decision rule |
@@ -14,6 +16,9 @@ A preregistered test of whether seeing a novel image once more changes a human m
 | `examined.py` | Encoding-phase numbers disclosed in the preregistration |
 | `typicality.py` | Builds `inputs/typicality.csv` |
 | `inputs/` | Image set of each 001187 session; image typicality |
+| `results/` | Results of the registered analysis (`001187.json`, `000004.json`) and of the exploratory analyses (`extra_*.json`); figures |
+| `extra/` | Exploratory analyses and figures, added after the results |
+| `OSF_REGISTRATION_URL.txt`, `POSTED_001187_SHA.txt` | The registration, and where the SHA-256 of `results/001187.json` was posted |
 
 ## Run
 

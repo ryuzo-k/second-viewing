@@ -1,0 +1,63 @@
+{
+ "neurons_total": 950,
+ "neurons_excluded": 243,
+ "neurons_by_area": {
+  "amygdala": 570,
+  "hippocampus": 380
+ },
+ "tuned_by_area": {
+  "amygdala": 91,
+  "hippocampus": 39
+ },
+ "tuned_sessions": 36,
+ "tuned_participants": 30,
+ "tuned_per_participant": {
+  "median": 2.5,
+  "min": 1,
+  "max": 15
+ },
+ "test_trials": {
+  "new": {
+   "trials": 8809,
+   "answered_before_0_7s": 283
+  },
+  "once": {
+   "trials": 6166,
+   "answered_before_0_7s": 187
+  },
+  "twice": {
+   "trials": 2626,
+   "answered_before_0_7s": 89
+  }
+ },
+ "model_rows": {
+  "test_once": 16517,
+  "test_twice": 6997,
+  "first_viewing": 23514,
+  "test_new": 23690
+ },
+ "test_rows_missing_delay": 0,
+ "never_tested_per_category_min_over_categories": {
+  "median": 14.0,
+  "min": 14,
+  "max": 36
+ },
+ "x_quartiles_analysed": [
+  -0.33887933280957255,
+  -0.0957028899138806,
+  0.23894755625850894
+ ],
+ "behaviour_session_mean": {
+  "hit_once": 0.638812800261397,
+  "hit_twice": 0.717178806439978,
+  "false_alarm": 0.25991115651310576,
+  "dprime_once": 1.101920354630961,
+  "dprime_twice": 1.3801012709983425
+ },
+ "behaviour_dprime_twice_minus_once": {
+  "mean": 0.27818091636738146,
+  "sd": 0.27786525620590474,
+  "n_sessions": 46,
+  "sessions_higher": 38
+ }
+}
